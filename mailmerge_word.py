@@ -7,7 +7,7 @@ template_file = 'template.docx'
 output_dir = 'Output'
 data = [
     {'first_name': 'Nguyễn Văn A', 'last_name': '1.000.000'},
-    {'first_name': 'Trần Thị B', 'last_name': '2.500.000'}
+    {'first_name': 'Trần Thị B', 'last_name': '2.500.000 sas'}
 ]
 
 # Tạo thư mục đầu ra nếu chưa có
